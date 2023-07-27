@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: hsl(218, 28%, 13%);
+  font-family: raleway, sans-serif;
+}
+
+h1, h2, h3 {
+  color: rgb(213, 211, 211);
+}
+
